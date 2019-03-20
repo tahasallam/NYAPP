@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  NYApp
+
+  Created by Taha Abdelrahman on 3/19/19.
+  Copyright © 2019 apple. All rights reserved.
+*/
+"NY Times Most Popular"="نيويورك تايمز الأكثر شعبية";
+"noInternetAccess"="لا يوجد اتصال بالانترنت";
+"error"="خطا";
+"refresh"="تحديث";

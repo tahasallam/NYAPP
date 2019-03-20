@@ -1,0 +1,6 @@
+framework module Pods_NYApp_NYAppUITests {
+  umbrella header "Pods-NYApp-NYAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Localize-Swift (2.0.0)
+  - NVActivityIndicatorView (4.6.1):
+    - NVActivityIndicatorView/Presenter (= 4.6.1)
+  - NVActivityIndicatorView/Presenter (4.6.1)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - SwiftMessages (6.0.2):
+    - SwiftMessages/App (= 6.0.2)
+  - SwiftMessages/App (6.0.2)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Localize-Swift
+  - NVActivityIndicatorView
+  - SDWebImage
+  - SwiftMessages
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Localize-Swift
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SwiftMessages
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  NVActivityIndicatorView: 4ca19fccc84595a78957336a086d00a49be6ce61
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  SwiftMessages: 8b3cc68dba2f1c91aac1a74c90b10287aac35371
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 0f820662ee258c90a0f1bcc69d00e4e4436847d9
+
+COCOAPODS: 1.5.3
